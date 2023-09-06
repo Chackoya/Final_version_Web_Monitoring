@@ -23,7 +23,7 @@ For more details about the libs, please check out the "requirements.txt" file, f
 - Folder `videos_obtained_simulation`, where the recordings of the runs are stored.
 - Text file `requirements.txt` with the libs required.
 - XML FILE `param.xml` with some configurations for the script.
-- Folder `dist`: inside you can find the executable to run the script (without requirements).
+
 
 ## How to run the project and install:
 
@@ -48,6 +48,7 @@ Tips (for Anaconda users):
 Run the following commands:
 
 >conda create --name NewEnvironmentName
+
 >conda activate NewEnvironmentName
 
 -Then, import the packages (requirements.txt file):
