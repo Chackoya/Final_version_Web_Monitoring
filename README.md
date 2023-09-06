@@ -69,7 +69,9 @@ SCREENSHOTS: when an error appears, screenshots are taken such as lackey_error_s
 
 
 ### Step 5 (optional): run the executable
-In order to avoid installations, you can also just run the executable generated with PyInstaller. You can find the executable in the folder dist.
+In order to avoid installations, you can also just run the executable generated with PyInstaller. You can find the executable in the following like (too heavy for Github): 
+
+https://www.dropbox.com/scl/fi/vo31hc2zx313c5g7jmiji/main_script.zip?rlkey=5qgtew4se52ix10t0sl352zvc&dl=0
 
 
 ---------------------------------------
