@@ -1,0 +1,21 @@
+<config>
+    <url>https://www.banquepopulaire.fr/</url>
+    <accept_button_xpath>//*[@id="consent_prompt_submit"]</accept_button_xpath>
+    <find_agency_class_name>link-list</find_agency_class_name>
+    <search_street_xpath>//*[@id="em-search-form__searchstreet"]</search_street_xpath>
+    <search_city_xpath>//*[@id="em-search-form__searchcity"]</search_city_xpath>
+    <city_name>Lyon</city_name>
+    <city_zip_code>69000</city_zip_code>
+    
+    
+    <search_with_form_button_xpath>
+    //*[@id="em-search-form"]/div/div[2]/fieldset[2]/div[2]/button
+    </search_with_form_button_xpath>
+    
+    
+    <pick_choice_list_xpath>
+    //*[@id="cgeocoder29_street_1"]
+    </pick_choice_list_xpath>
+    
+    
+</config>

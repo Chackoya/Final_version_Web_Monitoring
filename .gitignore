@@ -1,0 +1,10 @@
+
+__pycache__/
+*.pyc
+*.pyo
+
+# PyInstaller files
+build/
+dist/
+*.spec
+
